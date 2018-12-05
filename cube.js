@@ -16,15 +16,7 @@
 		
         Entities.editEntity(entityID, newProperty);
 		
-		var randomDisplacement = {x: Math.random()*0.1, y:Math.random()*0.1, z:Math.random()*0.1};
 		
-		print(randomDisplacement);
-		
-		var newPosition = Vec3.sum(entityID.position,randomDisplacement);
-		
-		newPP = {position: newPosition};
-		
-		Entities.editEntity(entityID, newPP);
 	
 	
 		
