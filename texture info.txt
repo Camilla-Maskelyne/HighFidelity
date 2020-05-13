@@ -1,0 +1,42 @@
+{
+    "Palm_Bark_01_Diff": "http://content.highfidelity.com/baked/island/PalmTree_anim/baked/Nature_Bark_Palm_01_Diff.ktx#head",
+    "Palm_Bark_01_Norm": "http://content.highfidelity.com/baked/island/PalmTree_anim/baked/Nature_Bark_Palm_01_Norm.ktx#head",
+    "Palm_Leave_01_DiffMask": "http://content.highfidelity.com/baked/island/PalmTree_anim/baked/Nature_Leaves_Palm_01_DiffMask.ktx#head"
+}
+
+if you paste that into the original textues slot for the palm tree properties it should fix them
+but I'd advise grabbing the textures also
+island textures...
+
+{
+    "Sand": "http://content.highfidelity.com/baked/island/Island-seafloor/baked/SAND-Dunes.ktx#head",
+    "Texture": "http://content.highfidelity.com/baked/island/Island-seafloor/baked/seafloor-2.ktx#head",
+    "Texture.001": "http://content.highfidelity.com/baked/island/Island-seafloor/baked/island-boundary.ktx#head"
+}
+
+Tiki Hut textures
+
+{
+    "file26": "http://content.highfidelity.com/baked/island/TikiHut7/baked/RoofCards.ktx#head",
+    "file28": "http://content.highfidelity.com/baked/island/TikiHut7/baked/RoofCardsBump.ktx#head",
+    "file29": "http://content.highfidelity.com/baked/island/TikiHut7/baked/StingrayPBS3_Base_Color.ktx#head",
+    "file30": "http://content.highfidelity.com/baked/island/TikiHut7/baked/StingrayPBS3_Normal_OpenGL.ktx#head",
+    "file31": "http://content.highfidelity.com/baked/island/TikiHut7/baked/StingrayPBS3_Roughness.ktx#head"
+}
+
+Tree textures
+
+{
+    "Tree4_9_17_1_58_PM1:leaves1F": "http://content.highfidelity.com/baked/island/heroTree_anim/baked/Tree4-9-17_1_58_PM1Leaf.ktx#head",
+    "file23": "http://content.highfidelity.com/baked/island/heroTree_anim/baked/trunkSG_Base_Color.ktx#head",
+    "file25": "http://content.highfidelity.com/baked/island/heroTree_anim/baked/upperBranchesSG_Base_Color.ktx#head",
+    "file26": "http://content.highfidelity.com/baked/island/heroTree_anim/baked/leaf256.ktx#head"
+}
+
+http://content.highfidelity.com/baked/island/heroTree_anim/baked/heroTree_anim.baked.fbx
+http://hifi-content.s3.amazonaws.com/DomainContent/Welcome%20Area/Models/heroTree_animationArmatureOnly.fbx
+Tropical plant texture:
+
+{
+    "Kd.001": "http://content.highfidelity.com/baked/island/plant-unknown-trop/baked/AM124_131_v2_02.ktx#head"
+}
