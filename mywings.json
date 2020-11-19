@@ -1,0 +1,63 @@
+{
+  "DataVersion": 0,
+  "Entities": [
+    {
+    "id": "{edbeb60f-2fa3-4ca9-b61b-f95ffe3bd99a}",
+    "type": "Model",
+    "lastEdited": 1605768586300169,
+    "parentID": "{00000000-0000-0000-0000-000000000001}",
+    "parentJointIndex": 13,
+    "name": "Wearable Fairy Wings",
+    "userData": "{\n    \"grabbableKey\": {\n    }\n}",
+    "position": {
+        "x": 0.03000044822692871,
+        "y": 0.07000064849853516,
+        "z": -0.4699997901916504
+    },
+    "dimensions": {
+        "x": 0.5760353207588196,
+        "y": 0.5963555574417114,
+        "z": 0.30849358439445496
+    },
+    "rotation": {
+        "x": 0.022705398499965668,
+        "y": -0.7177360653877258,
+        "z": -0.02063169702887535,
+        "w": 0.6956421732902527
+    },
+    "created": 1592166752483608,
+    "lastEditedBy": "{d7b7e5b2-b945-4d08-b7ea-edbe73cb4890}",
+    "entityHostType": "avatar",
+    "owningAvatarID": "{d7b7e5b2-b945-4d08-b7ea-edbe73cb4890}",
+    "queryAACube": {
+        "x": 1.6259894371032715,
+        "y": -11.206877708435059,
+        "z": 2.6400296688079834,
+        "scale": 3.084624767303467
+    },
+    "itemName": "Awesome Fairy Wings",
+    "itemDescription": "These beautiful, wearable fairy wings make you awesome.  They're animated and flutter slowly in the wind.",
+    "itemCategories": "Wearables",
+    "itemArtist": "Caitlyn",
+    "marketplaceID": "cd78fbef-ea2f-46cd-9a69-d2c0df7d2ea6",
+    "editionNumber": 44,
+    "certificateID": "MEUCIQDKdWGnrngH28/jUxn2t/BIL+wr+Pks023jfzB7xoSwcgIgfxIUTS9byEtPjWeo+TRgKEFuLyMvrw9WB77eyFwzVcw=",
+    "staticCertificateVersion": 2,
+    "modelURL": "http://mpassets.highfidelity.com/cd78fbef-ea2f-46cd-9a69-d2c0df7d2ea6-v1/fairyWings.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "url": "http://mpassets.highfidelity.com/cd78fbef-ea2f-46cd-9a69-d2c0df7d2ea6-v1/fairyWings.fbx",
+        "currentFrame": 473.4139709472656,
+        "running": true,
+        "lastFrame": 763
+    },
+    "clientOnly": true,
+    "avatarEntity": true,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+}
+    ],
+  "Id": "{1738bc0d-a19a-4e5a-91a6-cff8ef68bef3}",
+  "Version": 129
+}
